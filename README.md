@@ -6,3 +6,10 @@
 + Or pluses
 
 ---
+
+
+#### create a docker network.
+
+docker network create mysql
+
+---
