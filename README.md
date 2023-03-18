@@ -6,7 +6,7 @@
 
 ---
 
-*create a docker network.
+* create a docker network.
 
     #### docker network create mysql
 
