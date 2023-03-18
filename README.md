@@ -8,7 +8,7 @@
 
 * create a docker network.
 
-#### Command: docker network create mysql
+** Command: docker network create mysql
 
 ---
 
