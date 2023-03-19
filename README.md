@@ -23,4 +23,3 @@
   #### Command: docker run --network mysql -p 83.212.126.240:8083:80 -e PMA_HOST=mysql -d phpmyadmin/phpmyadmin
 
 ---
-
