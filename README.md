@@ -6,7 +6,7 @@
 
 ---
 
-### 1. create a docker network.
+#### 1. create a docker network.
 
   #### Command: docker network create mysql
 
